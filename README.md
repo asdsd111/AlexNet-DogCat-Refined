@@ -24,8 +24,8 @@ To prevent the model from memorizing the background, I implemented a comprehensi
 ## 3. Experimental Results & Analysis
 
 ### Performance Metrics
-* **Validation Accuracy**: [请在这里填入你跑出的最高准确率，例如：89.5%]
-* **Convergence Epoch**: [请填入在哪一轮达到最高准确率，例如：Epoch 42]
+* **Validation Accuracy**: 83.5%
+* **Convergence Epoch**: Epoch 78
 
 ### Training Dynamics (Loss & Accuracy Curves)
 *(The narrow gap between the training and validation loss curves indicates that the heavy data augmentation and dropout successfully prevented severe overfitting.)*
