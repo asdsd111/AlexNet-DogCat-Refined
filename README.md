@@ -30,7 +30,7 @@ To prevent the model from memorizing the background, I implemented a comprehensi
 ### Training Dynamics (Loss & Accuracy Curves)
 *(The narrow gap between the training and validation loss curves indicates that the heavy data augmentation and dropout successfully prevented severe overfitting.)*
 
-![Loss and Accuracy Curves](./loss_curve.png)
+![Loss and Accuracy Curves](./plot_2025-12-26 10-48-40_1.png)
 
 ## 4. Engineering & Deployment
 I structured the codebase to be modular and deployable, demonstrating good engineering practices:
