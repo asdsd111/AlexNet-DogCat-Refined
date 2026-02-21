@@ -43,7 +43,7 @@ I structured the codebase to be modular and deployable, demonstrating good engin
 # 1. Install dependencies
 pip install torch torchvision matplotlib pillow
 
-# 2. Train the model (Ensure you update the ROOT_TRAIN and ROOT_TEST paths in train.py)
+# 2. Train the model
 python train.py
 
 # 3. Run Inference and Visualization
